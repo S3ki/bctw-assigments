@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "lodash": "^4.17.21",
-    "nodemon": "^2.0.21"
+    "lodash": "^4.17.21"
   },
   "name": "bctw-assigments",
   "version": "1.0.0",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "s3ki <sakariya@metropolia.fi>",
