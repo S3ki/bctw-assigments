@@ -7,7 +7,7 @@
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "s3ki <sakariya@metropolia.fi>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
